@@ -1,0 +1,8 @@
+# reading file
+#docs/
+
+#composer loadings
+vendor/
+
+#IDE files
+.idea
